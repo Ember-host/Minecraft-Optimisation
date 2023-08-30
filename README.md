@@ -1,3 +1,3 @@
-# Documentation
+# Information
 
-Please PR any changes to our docs!
+This was a temporary solution that is now outdated. Please see https://docs.ember.host for documentation!
